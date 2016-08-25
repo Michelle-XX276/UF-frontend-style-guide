@@ -1,20 +1,17 @@
 {
-  "name": "frontend-nanodegree-styleguide",
+  "name": "frontend-styleguide",
   "version": "0.1.0",
   "authors": [
-    "Mike Wales <michael.wales@udacity.com>"
+    "Richard Kalehoff <richardkalehoff@gmail.com>"
   ],
-  "description": "The Udacity Frontend Nanodegree Style Guide",
+  "description": "The AdvWeb2 Frontend Style Guide",
   "main": "index.html",
   "keywords": [
-    "udacity",
     "frontend",
-    "nanodegree",
     "style",
     "guide"
   ],
   "license": "MIT",
-  "homepage": "http://udacity.com/nanodegrees",
   "private": true,
   "ignore": [
     "**/.*",
